@@ -20,5 +20,5 @@ The purpose of this document is create a list of common **criticisms** of Web 3 
 ✔️ **Bitcoin’s energy consumption is more efficient than gold and traditional banks** [[4]](https://ark-invest.com/articles/analyst-research/bitcoin-myths/)
 - Traditional banking emits 1,368 Megatonnes (Mtoe) of carbon per year. Gold mining emits 144 Mtoe. Bitcoin emits 61 million Mtoe.
 
-✔️ **Ethereum and many other blockchains (e.g. Avalanche, Solana, Cosmos, Terra, Binance Smart Chain, etc) do not use Proof-of-Work.**
+✔️ **Ethereum and many other blockchains (e.g. Avalanche, Solana, Cosmos, Terra, etc) do not use Proof-of-Work.**
 - Ethereum's Proof-of-Stake consensus algorithm will use at least ~99.95% less energy post merge and is expected to consume ~ 2.62 megawatt (around 2100 American homes).  [[5]](https://blog.ethereum.org/2021/05/18/country-power-no-more/)
