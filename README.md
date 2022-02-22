@@ -11,7 +11,12 @@ The purpose of this document is create a list of common **criticisms** of Web 3 
 - There is historical precedent for this phenomenon. Before Bitcoin, aluminum served this purpose. To produce aluminum, it requires smelting bauxite ore. Because Iceland boasts cheap and abundant energy, smelting bauxite was a natural move. The ore was shipped from Australia or China, smelted in Iceland and shipped back to places like China for construction.
 
 ✔️ **Bitcoin mining is a net benefit to the energy sector** [[2]](https://www.coindesk.com/policy/2021/10/11/bitcoin-mining-is-reshaping-the-energy-sector-and-no-one-is-talking-about-it/)
- - TODO
+ - The age of the hardware determines the type of energy that is used. Older ASICs units can use more intermittent renewables, even at a capacity factor of 70%, because the costs of running the hardware are lower.
+- Bitcoin miners can buy energy when energy is abundant and draw from the grid the rest of the time. This allows miners to monetize a renewable asset that would otherwise be wasted, while still maintaining generally high uptime. 
+- Miners are signing deals with nuclear power plants [[3]](https://www.prnewswire.com/news-releases/talen-energy-corporation-announces-zero-carbon-bitcoin-mining-joint-venture-with-terawulf-inc-301347297.html)
+- Bitcoin miners are mining with waste methane which would otherwise be flared. This reduces emissions compared to the gas being flared.
+- Bitcoin miners are ideal candidates for  “demand response” programs because they can deal with power outages without suffering adverse impacts to their business (unlike hospitals, factories, etc)
+- Bitcoin miners can serve as a source of “controllable load”, where they can dial up and down their energy consumption to a level the grid operator demands so that  fossil-fuel plants don't need to used as much, resulting in lower overall carbon emissions.
 
 ✔️ **We are 88% done with the Bitcoin mining process** [[3]](https://www.bloomberg.com/news/videos/2021-02-09/what-people-get-wrong-about-bitcoin-s-climate-footprint-nic-carter-video)
 - Miners spend a lot of energy because a majority of their revenue today comes from new Bitcoin issuance. Therefore, the benefit of mining Bitcoin outweighs the cost.
