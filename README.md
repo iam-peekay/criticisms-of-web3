@@ -11,7 +11,7 @@ The purpose of this document is create a list of common **criticisms** of Web 3 
 - There is historical precedent for this phenomenon. Before Bitcoin, aluminum served this purpose. To produce aluminum, it requires smelting bauxite ore. Because Iceland boasts cheap and abundant energy, smelting bauxite was a natural move. The ore was shipped from Australia or China, smelted in Iceland and shipped back to places like China for construction.
 
 ✔️ **Bitcoin mining is a net benefit to the energy sector** [[2]](https://www.coindesk.com/policy/2021/10/11/bitcoin-mining-is-reshaping-the-energy-sector-and-no-one-is-talking-about-it/)
- - The age of the hardware determines the type of energy that is used. Older ASICs units can use more intermittent renewables, even at a capacity factor of 70%, because the costs of running the hardware are lower.
+ - The age of the hardware determines the type of energy that is used. Older ASICs units use more intermittent renewables because the costs of running the hardware are lower.
 - Bitcoin miners can buy energy when energy is abundant and draw from the grid the rest of the time. This allows miners to monetize a renewable asset that would otherwise be wasted, while still maintaining generally high uptime. 
 - Miners are signing deals with nuclear power plants [[3]](https://www.prnewswire.com/news-releases/talen-energy-corporation-announces-zero-carbon-bitcoin-mining-joint-venture-with-terawulf-inc-301347297.html)
 - Bitcoin miners are mining with waste methane which would otherwise be flared. This reduces emissions compared to the gas being flared.
