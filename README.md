@@ -37,5 +37,7 @@ The purpose of this document is create a list of common **criticisms** of Web 3 
 - Users can easily switch services if those services start charging too much, inserting ads and algorithmic feeds, throttling their traffic, or mistreating them in other ways.[[7]](https://twitter.com/cdixon/status/1479920751650111491?s=20&t=oqmI1N8DGVSmorokx31R9Q)
 - There will be centralized services in Web 3, but the switching costs on Web 3 are much lower than Web 2 (e.g. 2% on OpenSea vs. 30% on Apple App store). [[8]](https://twitter.com/cdixon/status/1479920756251234304?s=20&t=oqmI1N8DGVSmorokx31R9Q)
 - By making data portable across centralized and decentralized services, Web 3 gives user more freedom and agency.
-- For those who want full decentralization, decentralized alternatives to platforms like OpenSea are being created. [[9]](https://looksrare.org/)
-- 
+
+
+✔️ Decentralized alternatives to platforms like OpenSea are being created. [[9]](https://looksrare.org/)
+
