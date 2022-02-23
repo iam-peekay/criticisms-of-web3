@@ -48,6 +48,7 @@ The purpose of this document is create a list of common **criticisms** of Web 3 
 ✔️ **There are innovative new solutions that make it seamless for users to "own their keys"**
 - Web 3 auth combines Web 2's social login system with web 3 private key management, making it as easy for users to manage their keys without having to worry about storing seed phrases. [[10]](https://web3auth.io/)
 - Social recovery is becoming more mainstream, where users don't have to worry about storing seed phrases or hardware wallets securely. Instead, a user can choose at least 3 or more "guardians" (e.g. friends, family, etc) who can cooperate to change the signing key of the account. [[11]](https://vitalik.ca/general/2021/01/11/recovery.html)
+
 ✔️ **There are some countries where having the option to "own their keys" is a blessing**
 - Having the _option_ to hold your private keys is a big feature in countries that are both authoritarian and insecure, in which you can’t trust the government nor the banks.
 
