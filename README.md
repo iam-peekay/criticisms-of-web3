@@ -27,3 +27,15 @@ The purpose of this document is create a list of common **criticisms** of Web 3 
 
 ✔️ **Ethereum and many other blockchains (e.g. Avalanche, Solana, Cosmos, Terra, etc) do not use Proof-of-Work.**
 - Ethereum's Proof-of-Stake consensus algorithm will use at least ~99.95% less energy post merge and is expected to consume ~ 2.62 megawatt (around 2100 American homes).  [[5]](https://blog.ethereum.org/2021/05/18/country-power-no-more/)
+
+## Web 3 has a lot of centralized services
+
+### Counter-arguments
+
+✔️ **Web3 network effects accrue as public goods on the blockchain, not with centralized services** [[6]](https://twitter.com/cdixon/status/1485303906154467330?s=20&t=oqmI1N8DGVSmorokx31R9Q)
+- OpenSea and other "centralized" Web 3 services don’t own the goods. Users own them on the blockchain and have full control over them.
+- Users can easily switch services if those services start charging too much, inserting ads and algorithmic feeds, throttling their traffic, or mistreating them in other ways.[[7]](https://twitter.com/cdixon/status/1479920751650111491?s=20&t=oqmI1N8DGVSmorokx31R9Q)
+- There will be centralized services in Web 3, but the switching costs on Web 3 are much lower than Web 2 (e.g. 2% on OpenSea vs. 30% on Apple App store). [[8]](https://twitter.com/cdixon/status/1479920756251234304?s=20&t=oqmI1N8DGVSmorokx31R9Q)
+- By making data portable across centralized and decentralized services, Web 3 gives user more freedom and agency.
+- For those who want full decentralization, decentralized alternatives to platforms like OpenSea are being created. [[9]](https://looksrare.org/)
+- 
