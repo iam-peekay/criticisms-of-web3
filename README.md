@@ -78,8 +78,8 @@ The purpose of this document is create a list of common **criticisms** of Web 3 
 - Tokens align the incentive of participants in the network to work together toward a common goal: the growth of the network and the appreciation of the token.
 - This fixes the core problem of centralized networks, where the value is accumulated by one company rather than collectively to the participants in the network.
 
-✔️ **Bitcoin is >10X lighter, faster, and more liquid than physical gold.** [[15]](https://balajis.com/and-what-has-the-blockchain-ever-done-for-us/)
+✔️ **Bitcoin is >10X lighter, faster, and more liquid than physical gold** [[15]](https://balajis.com/and-what-has-the-blockchain-ever-done-for-us/)
 
-✔️ **Cryptocurrencies are >10X the speed of wire transfers.** [[16]](https://balajis.com/and-what-has-the-blockchain-ever-done-for-us/)
+✔️ **Cryptocurrencies are >10X the speed of wire transfers** [[16]](https://balajis.com/and-what-has-the-blockchain-ever-done-for-us/)
 
-✔️ **Ethereum has 10X'd the scale of crowdfunding.** [[17]](https://balajis.com/and-what-has-the-blockchain-ever-done-for-us/)
+✔️ **Ethereum has 10X'd the scale of crowdfunding** [[17]](https://balajis.com/and-what-has-the-blockchain-ever-done-for-us/)
