@@ -39,5 +39,5 @@ The purpose of this document is create a list of common **criticisms** of Web 3 
 - By making data portable across centralized and decentralized services, Web 3 gives user more freedom and agency.
 
 
-✔️ Decentralized alternatives to platforms like OpenSea are being created. [[9]](https://looksrare.org/)
+✔️ **Decentralized alternatives to platforms like OpenSea are being created** [[9]](https://looksrare.org/)
 
