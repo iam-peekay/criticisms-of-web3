@@ -45,5 +45,40 @@ The purpose of this document is create a list of common **criticisms** of Web 3 
 
 ### Counter-arguments
 
-✔️ **TODO** [[10]](TODO)
-- TODO
+✔️ **There are innovative new solutions that make it seamless for users to "own their keys"**
+- Web 3 auth combines Web 2's social login system with web 3 private key management, making it as easy for users to manage their keys without having to worry about storing seed phrases. [[10]](https://web3auth.io/)
+- Social recovery is becoming more mainstream, where users don't have to worry about storing seed phrases or hardware wallets securely. Instead, a user can choose at least 3 or more "guardians" (e.g. friends, family, etc) who can cooperate to change the signing key of the account. [[11]](https://vitalik.ca/general/2021/01/11/recovery.html)
+✔️ **There are some countries where having the option to "own their keys" is a blessing**
+- Having the _option_ to hold your private keys is a big feature in countries that are both authoritarian and insecure, in which you can’t trust the government nor the banks.
+
+## Blockchain is a solution in search of a problem
+
+### Counter-arguments
+
+✔️ **Blockchain is already helping people from certain third-world countries**
+- People living in countries with high inflation, high taxes, and authoritarian governments now have an option “exit” the system, and have a refuge against inflation and censorship.
+- Example: Argentina
+ - If you provide services to a foreign country for $10.000, only $3.000 end up in your bank account.
+ - Lots of freelancers and companies from Argentina are charging in crypto to avoid getting screwed by the government.
+ - It’s an illegal but (arguably) ethical way to exit an unfair taxation scheme.
+ - Crypto is a widely adopted way of saving and moving money in and out of the country.
+
+✔️ **Non-custodial wallets allow people to exercise their fundamental rights as citizens** [[12]](https://twitter.com/punk6529/status/1494444624630403083)
+- Governments around the world have the ability to financially censoring anyone. Without access to the financial system, people cannot exercise their rights as citizens. They are powerless.
+- Non-custodial wallets allow people to have permissionless access to a financial system.
+
+✔️ **DeFi adoption keeps growing**
+- DeFi has grown significantly over the last year, from around $700 million in 2020 to an estimated $60 billion to $80 billion in TVL in 2021. [[13]](https://cointelegraph.com/explained/from-defi-year-to-decade-is-mass-adoption-here-experts-answer-part-3)
+- Adoption is not a perfect measure of utility, but it does go to show that people are adopting DeFi in masses because they get some value out of it (i.e. permissionless access to returns)
+
+✔️ **Web 2 monopolies are a real problem** [[14]](https://twitter.com/cdixon/status/1442201621266534402?s=20&t=omT3hLyF_AcKv-kHeG5vEQ)
+- The incentive structures of Web 2 companies requires that in order to continue growing and monetizing, the companies must extract data from users. 
+- Web 3 allows ownership and control of data and value to be decentralized. Users own the data and value they create on the internet. 
+- Tokens align the incentive of participants in the network to work together toward a common goal: the growth of the network and the appreciation of the token.
+- This fixes the core problem of centralized networks, where the value is accumulated by one company rather than collectively to the participants in the network.
+
+✔️ **Bitcoin is >10X lighter, faster, and more liquid than physical gold.** [[15]](https://balajis.com/and-what-has-the-blockchain-ever-done-for-us/)
+
+✔️ **Cryptocurrencies are >10X the speed of wire transfers.** [[16]](https://balajis.com/and-what-has-the-blockchain-ever-done-for-us/)
+
+✔️ **Ethereum has 10X'd the scale of crowdfunding.** [[17]](https://balajis.com/and-what-has-the-blockchain-ever-done-for-us/)
