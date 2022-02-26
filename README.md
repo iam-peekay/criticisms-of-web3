@@ -95,7 +95,7 @@ The purpose of this document is create a list of common **criticisms** of Web 3 
 ✔️ **Crypto exchanges curtail illegal activity as much as possible**
 -  Binance recently helped bring down a $500 million ransomware gang. [[19]](https://decrypt.co/82773/how-binance-helped-bring-down-a-500-million-ransomware-gang)
 
-✔️ **Traditional banks have been shown to have immoral secrary laws and being facilitators of criminal activity.**'
+✔️ **Traditional banks have been shown to have immoral secrary laws and being facilitators of criminal activity.**
 - A massive leak from Credit Suisse exposed the hidden wealth of clients involved in torture, drug trafficking, money laundering, corruption and other serious crimes. [[20]](https://www.theguardian.com/news/2022/feb/20/credit-suisse-secrets-leak-unmasks-criminals-fraudsters-corrupt-politicians)
 
 ## NFTs offers no intellectual property protection
