@@ -83,3 +83,30 @@ The purpose of this document is create a list of common **criticisms** of Web 3 
 ✔️ **Cryptocurrencies are >10X the speed of wire transfers** [[16]](https://balajis.com/and-what-has-the-blockchain-ever-done-for-us/)
 
 ✔️ **Ethereum has 10X'd the scale of crowdfunding** [[17]](https://balajis.com/and-what-has-the-blockchain-ever-done-for-us/)
+
+## Cryptocurrencies are used for illicit activites
+
+### Counter-arguments
+
+✔️ **The number of bitcoin transactions linked to illicit activities remains below 1%** [[18]](https://ark-invest.com/articles/analyst-research/bitcoin-myths/)
+- Bitcoin transactions are public and transparent. Any user can view the complete history of transactions on the network, making it an unattractice medium to faciliate illegal activity.
+- Using crypto for nefarious purposes leaves an excellent paper trail for prosecutors to lock in a conviction. Hence, physical cash is a far better medium for illicit activity.
+
+✔️ **Crypto exchanges curtail illegal activity as much as possible**
+-  Binance recently helped bring down a $500 million ransomware gang. [[19]](https://decrypt.co/82773/how-binance-helped-bring-down-a-500-million-ransomware-gang)
+
+✔️ **Traditional banks have been shown to have immoral secrary laws and being facilitators of criminal activity.**'
+- A massive leak from Credit Suisse exposed the hidden wealth of clients involved in torture, drug trafficking, money laundering, corruption and other serious crimes. [[20]](https://www.theguardian.com/news/2022/feb/20/credit-suisse-secrets-leak-unmasks-criminals-fraudsters-corrupt-politicians)
+
+## NFTs offers no intellectual property protection
+
+### Counter-arguments
+
+✔️ **An NFT is a token that represents the certificate of authenticity** [[18]](https://twitter.com/punk6529/status/1451899748739338243?s=20&t=1VBHvVG9boRuHyr4SUrX3A)
+- Although they don't exisg today, NFTs will evolve to have a readable standard for NFT rights - regular, commercial, non-commercial, public domain and so on. [[18]](https://twitter.com/punk6529/status/1493973723547934726)
+
+✔️ **NFTs are an 10x improvement over the current approach to mainining intellectual property**.
+- NFTs are portable. Unlike physical art which is limited to its physical location, NFTs can be ported to any account on the blockchain in seconds.
+- NFTs are programmable. Unlike physical art, NFTs are token representations of art. These representations can be programmed into any smart contract and be used in many different ways (e.g. collateral, proof-of-identity, proof-of-ownership, etc)
+- NFTs allow for much more transparent royalty agreements since everything is "on-chain" and any account that owns an NFT is easily identifiable.
+
