@@ -25,7 +25,7 @@ The purpose of this document is create a list of common **criticisms** of Web 3 
 ✔️ **Bitcoin’s energy consumption is more efficient than gold and traditional banks** [[4]](https://ark-invest.com/articles/analyst-research/bitcoin-myths/)
 - Traditional banking emits 1,368 Megatonnes (Mtoe) of carbon per year. Gold mining emits 144 Mtoe. Bitcoin emits 61 million Mtoe.
 
-✔️ **Ethereum and many other blockchains (e.g. Avalanche, Solana, Cosmos, Terra, etc) do not use Proof-of-Work.**
+✔️ **Ethereum and many other blockchains (e.g. Avalanche, Solana, Cosmos, Terra, etc) do not use Proof-of-Work**
 - Ethereum's Proof-of-Stake consensus algorithm will use at least ~99.95% less energy post merge and is expected to consume ~ 2.62 megawatt (around 2100 American homes).  [[5]](https://blog.ethereum.org/2021/05/18/country-power-no-more/)
 
 ## Web 3 has a lot of centralized services (e.g. OpenSea)
@@ -90,22 +90,26 @@ The purpose of this document is create a list of common **criticisms** of Web 3 
 
 ✔️ **The number of bitcoin transactions linked to illicit activities remains below 1%** [[18]](https://ark-invest.com/articles/analyst-research/bitcoin-myths/)
 - Bitcoin transactions are public and transparent. Any user can view the complete history of transactions on the network, making it an unattractice medium to faciliate illegal activity.
+
+✔️ **Physical cash is a more popular medium for illicit activity** [[19]](https://ark-invest.com/articles/analyst-research/bitcoin-myths/)
 - Using crypto for nefarious purposes leaves an excellent paper trail for prosecutors to lock in a conviction. Hence, physical cash is a far better medium for illicit activity.
 
 ✔️ **Crypto exchanges curtail illegal activity as much as possible**
--  Binance recently helped bring down a $500 million ransomware gang. [[19]](https://decrypt.co/82773/how-binance-helped-bring-down-a-500-million-ransomware-gang)
+-  Binance recently helped bring down a $500 million ransomware gang. [[20]](https://decrypt.co/82773/how-binance-helped-bring-down-a-500-million-ransomware-gang)
 
-✔️ **Traditional banks have been shown to have immoral secrary laws and being facilitators of criminal activity.**
-- A massive leak from Credit Suisse exposed the hidden wealth of clients involved in torture, drug trafficking, money laundering, corruption and other serious crimes. [[20]](https://www.theguardian.com/news/2022/feb/20/credit-suisse-secrets-leak-unmasks-criminals-fraudsters-corrupt-politicians)
+✔️ **Traditional banks have been shown to have immoral secrary laws and being facilitators of criminal activity**
+- A massive leak from Credit Suisse exposed the hidden wealth of clients involved in torture, drug trafficking, money laundering, corruption and other serious crimes. [[21]](https://www.theguardian.com/news/2022/feb/20/credit-suisse-secrets-leak-unmasks-criminals-fraudsters-corrupt-politicians)
+
+✔️ **Any tool can be used for illicit activites. That does not manke every tool inherently "bad"**
 
 ## NFTs offers no intellectual property protection
 
 ### Counter-arguments
 
-✔️ **An NFT is a token that represents the certificate of authenticity** [[21]](https://twitter.com/punk6529/status/1451899748739338243?s=20&t=1VBHvVG9boRuHyr4SUrX3A)
+✔️ **An NFT is a token that represents the certificate of authenticity** [[22]](https://twitter.com/punk6529/status/1451899748739338243?s=20&t=1VBHvVG9boRuHyr4SUrX3A)
 - Although they don't exist today, NFTs will evolve to have a readable standard for NFT rights - regular, commercial, non-commercial, public domain and so on. [[22]](https://twitter.com/punk6529/status/1493973723547934726)
 
-✔️ **NFTs are an 10x improvement over the current approach to mainining intellectual property**.
+✔️ **NFTs are an 10x improvement over the current approach to mainining intellectual property**
 - NFTs are portable. Unlike physical art which is limited to its physical location, NFTs can be ported to any account on the blockchain in seconds.
 - NFTs are programmable. Unlike physical art, NFTs are token representations of art. These representations can be programmed into any smart contract and be used in many different ways (e.g. collateral, proof-of-identity, proof-of-ownership, etc)
 - NFTs allow for much more transparent royalty agreements since everything is "on-chain" and any account that owns an NFT is easily identifiable.
