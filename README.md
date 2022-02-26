@@ -103,7 +103,7 @@ The purpose of this document is create a list of common **criticisms** of Web 3 
 ### Counter-arguments
 
 ✔️ **An NFT is a token that represents the certificate of authenticity** [[21]](https://twitter.com/punk6529/status/1451899748739338243?s=20&t=1VBHvVG9boRuHyr4SUrX3A)
-- Although they don't exisg today, NFTs will evolve to have a readable standard for NFT rights - regular, commercial, non-commercial, public domain and so on. [[22]](https://twitter.com/punk6529/status/1493973723547934726)
+- Although they don't exist today, NFTs will evolve to have a readable standard for NFT rights - regular, commercial, non-commercial, public domain and so on. [[22]](https://twitter.com/punk6529/status/1493973723547934726)
 
 ✔️ **NFTs are an 10x improvement over the current approach to mainining intellectual property**.
 - NFTs are portable. Unlike physical art which is limited to its physical location, NFTs can be ported to any account on the blockchain in seconds.
