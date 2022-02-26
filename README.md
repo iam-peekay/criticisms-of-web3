@@ -50,7 +50,7 @@ The purpose of this document is create a list of common **criticisms** of Web 3 
 - Social recovery is becoming more mainstream, where users don't have to worry about storing seed phrases or hardware wallets securely. Instead, a user can choose at least 3 or more "guardians" (e.g. friends, family, etc) who can cooperate to change the signing key of the account. [[11]](https://vitalik.ca/general/2021/01/11/recovery.html)
 
 ✔️ **There are some countries where having the option to "own their keys" is a blessing**
-- Having the _option_ to hold your private keys is a big feature in countries that are both authoritarian and insecure, in which you can’t trust the government nor the banks.
+- Having the _option_ to hold your private keys is a big feature in countries that are both authoritarian and insecure, in which you can’t trust the government nor the banks ([see this example](https://twitter.com/usleepwalker/status/1497255981851496449?s=20&t=mSryfuvhIlj936ckJJfJIA)).
 
 ## Blockchain is a solution in search of a problem
 
