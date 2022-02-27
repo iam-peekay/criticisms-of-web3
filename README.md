@@ -102,6 +102,9 @@ The purpose of this document is create a list of common **criticisms** of Web 3 
 
 ✔️ **Any tool can be used for illicit activites. That does not manke every tool inherently "bad"**
 
+✔️ **Illicit is not always immoral**
+- For people who live in a dictatorship, doing something illegal may be morally right. e.g. selling services to a foreign country may be banned or made practically impossible by the dictatorship (e.g. Cuba).
+
 ## NFTs offers no intellectual property protection
 
 ### Counter-arguments
@@ -113,3 +116,6 @@ The purpose of this document is create a list of common **criticisms** of Web 3 
 - NFTs are portable. Unlike physical art which is limited to its physical location, NFTs can be ported to any account on the blockchain in seconds.
 - NFTs are programmable. Unlike physical art, NFTs are token representations of art. These representations can be programmed into any smart contract and be used in many different ways (e.g. collateral, proof-of-identity, proof-of-ownership, etc)
 - NFTs allow for much more transparent royalty agreements since everything is "on-chain" and any account that owns an NFT is easily identifiable.
+
+##### Contributors
+Thanks to [@lucas-janon](https://github.com/lucas-janon), [@mariavarvaroi](https://github.com/mariavarvaroi), [@gabsong](https://github.com/gabsong) for their help compiling research.
