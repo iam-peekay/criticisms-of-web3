@@ -117,5 +117,5 @@ The purpose of this document is create a list of common **criticisms** of Web 3 
 - NFTs are programmable. Unlike physical art, NFTs are token representations of art. These representations can be programmed into any smart contract and be used in many different ways (e.g. collateral, proof-of-identity, proof-of-ownership, etc)
 - NFTs allow for much more transparent royalty agreements since everything is "on-chain" and any account that owns an NFT is easily identifiable.
 
-##### Contributors
+#### Contributors
 Thanks to [@lucas-janon](https://github.com/lucas-janon), [@mariavarvaroi](https://github.com/mariavarvaroi), [@gabsong](https://github.com/gabsong) for their help compiling research.
